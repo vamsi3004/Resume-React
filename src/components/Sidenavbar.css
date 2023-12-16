@@ -1,0 +1,63 @@
+#mySidenav a {
+    position: fixed; 
+    left: -280px; 
+    transition: 0.3s; 
+    padding: 10px; 
+    width: 400px; 
+    text-align: center;
+    text-decoration: none; 
+    font-size: 15px;
+    color: white; 
+    border-radius: 0 5px 5px 0; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
+  #mySidenav a:hover {
+    left: -100px; 
+  }
+  
+  
+  #About {
+    top: 220px;
+    background-color:  #2196F3;
+  }
+  
+  #Education{
+    top: 280px;
+    background-color: #04AA6D; 
+  }
+  
+  #Personal_Projects {
+    top: 340px;
+    background-color: #f44336; 
+  }
+
+  #Skills{
+    top:400px;
+    background-color:rgb(33, 190, 190);
+  }
+
+  #Certification{
+    top:460px;
+    background-color:darkcyan;
+  }
+
+  #Intership{
+    top:520px;
+    background-color:rgb(255, 2, 107);
+  }
+
+  .v1{
+    position:fixed;
+    left:310px;
+    border-left: 4px solid #36454F;
+    height: 500px;
+    top:195px;
+  }
+
+ .abouts{
+  padding-right: 10px;
+  width:30px;
+  height:30px;
+ } 
+

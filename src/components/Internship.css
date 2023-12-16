@@ -1,0 +1,24 @@
+.inte{
+    width: 600px;
+    height:100%;
+    position:relative;
+    left:400px;
+    top:195px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    z-index: -1;
+}
+.dtcgpa{
+    font-size: 12px;
+    display:flex;
+    width:400px;
+    flex-direction: row;
+    justify-content: space-between;
+    color:rgb(51, 195, 252);
+}
+.intern{
+    
+    padding-right: 10px;
+    height:45px;
+    width: 45Spx;
+    
+}

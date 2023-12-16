@@ -1,0 +1,56 @@
+.About{
+    width: 650px;
+    height:100%;
+    position:relative;
+    left:390px;
+    top:200px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    z-index:-1;
+}
+.Adress{
+    width:300px;
+}
+.sp a{
+    text-decoration: none;
+    color:black;
+    padding:20px;
+}
+.github{
+    padding-right: 10px;
+    height:30px;
+    width: 30px;
+    color: grey;
+}
+.linkedin{
+    padding-right: 10px;
+    height:30px;
+    width: 30px;
+    color: grey;
+
+}
+.home{
+    padding-right: 10px;
+    height:30px;
+    width: 30px;
+    color: grey;
+}
+.email{
+    padding-right: 10px;
+    height:30px;
+    width: 30px;
+    color: grey;
+}
+.phone{
+    padding-right: 10px;
+    height:30px;
+    width: 30px;
+    color: grey;
+}
+.reguser{
+    padding-right: 10px;
+    height:30px;
+    width: 30px;
+    color: grey;
+}
+
+
